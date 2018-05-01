@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "perceptive-ivy-202402",
+  "private_key_id": "8260255a3d45d30d7cbc20b8a12101443df78019",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCgzUasqTpDzXph\n+5+lcXKKfaemSHnSAZA94xkmLSwisH450zx8TCP1HEBM6zoeJdFMocQm7vWr2mGp\nhYSvgfA5NQbQWOxRlunoNyyc/Zt20V9IhlOtJSh2qP7b0MB4AUrCV6QhhYrqMSAf\nO4hJAJ6y4sXo2AvAl2jBJ6El2SUufF8YClvJRI0WqsdCzrP8URCP8+uCJVbkZddX\nl/8y3Ume4AKYdXhxlKCAm84BScUTrkP6v7uZVJTBEndWiPHFdPEhlF/pF7YrBG4w\nzUtrrUdmXtAwD2SGN7OXH9bYGqk4phz45/2VQIy+jjjXqdkUGRDto9myKnUJBYn7\nayX9Hu47AgMBAAECggEACEUWZencI8GNEj35I26Wt/Wnah9fGIRZET29PN/k3bHb\nBAlPmorl7ISz7+DHH+bNAVZuepweiWSVUj0aKlaR7rdB7vQrzzRmOjmgM0C9vpoc\n/uNdqVF4Z8XgOZjeVS2n1R/hwpGWJ9436zNKGosMHmIYUJXP4OtIiWqK2KH2zhGl\ngsc5PEPGcVdtL6/Tkk1I9w4msiBnsv79L9aun5hn/f8A/kc+bwhUNPUlUcoP8EVe\ncQTVTTOQ8F0xWn2OAcyYv2KRSU++y+v9TKY4AB8+rP38+brCXAEAN2dMnvx+0Iv7\ntu1nA9vFz/82l+rxhdBok9c/GFX7g26wqiA1RZI4oQKBgQDVj6seaf1uVtbnMQ3t\nO95+g2Hjag6HaIBEtZQD8iK+rXb9YqWhSjwOfwyeRVsmpWMt8wP8II0rOpxHbWYt\n//dECxZdIL6PrZdYwbusYExjqa6p6PRk0zW3g7Y8q+Ee/3zCUq+Np1kPXG5v61j0\nLAhQwtbJq0ymjzICR7PmpU5SoQKBgQDAwZ91AjwD5BrtY/iogz1/OZBXcasL1hOp\nlXSL/5i8qWgviFrbRatXT3+YU5Tc6jm28gclIeYMczKShZswSBWd5gxVgTc6pI7n\nbweLzWuJ1BtvjlToBRXxkEc7SR233i9fXXyImCGecL5BEi0CxkWCIe2JlWL2vM0u\nPkOUH5wvWwKBgQC6hjjW34vSC1a3pkibo2a46NdeYQs/iS4+1LjqmVlvYOJEfRxc\nuxGpN541vi3Wmyz8vPwGAghKcW59lDdiheXZMDXgMPE/XEaL5umbrKALi/BZxnVu\nemq4VfmdFCITiOHWd5GND1Th7cEnT07qNGsu3n3qtgrEjt0G0Ml38XlvAQKBgQCB\nq7/Rv0cQdwuGV5KYCnH8fIUVzmn69HEVzG0zISdnA7ALCffVOvEhM2Hq349tbkSV\nRgx4dm2EQprq5uaXfGbOakwx2VOGJ93a4154NiD5/67VRTLpQ0KX1y+UOoO7hcTo\nqsN0QKOdKstSix+sliV8fcaGn/CLfEerrEdaBknTsQKBgQCz4ZipEAWwl/GcA37R\nIAmTMtdNahbaY5T7MOBnipzKpceChLiU/iakESJI/PQRLcNw3cY5kTykGF1ax085\nl7Z92ZQYgyzgngA5AykRFherg+w+vineJMQL+iN9zHjvu7jvANsTfUH0aBd8HR8v\np0w/haZMXfVwDec0sVwM297/9g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "moyo-70@perceptive-ivy-202402.iam.gserviceaccount.com",
+  "client_id": "103704102408491611949",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/moyo-70%40perceptive-ivy-202402.iam.gserviceaccount.com"
+}
